@@ -102,12 +102,19 @@ void push_button()
 
  ## LED OFF :
 
+ ![LED OFF PMC EXP2 (1)](https://github.com/Jayabharathi3/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120367796/54bae16f-d7c9-4875-95eb-89f192d5f529)
+
+
  ## LED OFF WHILE BLINKING:
 
+ ![LED OFF WHILE BLINKIN PMCEXP2](https://github.com/Jayabharathi3/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120367796/968efaca-5721-412d-995b-7ebdbdcf23f5)
+
+
  ## LED ON WHILE BLINKING :
- 
- 
- 
+
+ ![LED ON WHILE BLINKING NEW PMC EXP2](https://github.com/Jayabharathi3/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120367796/0bb5bcb5-caa4-4966-9c32-9a69cdcdfc92)
+
+
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
